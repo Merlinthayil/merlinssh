@@ -1,0 +1,6 @@
+cd merlin
+
+mkdir test12.txt
+echo "i am learning something new" > test1
+
+mkdir Testhello.txt

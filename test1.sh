@@ -1,4 +1,5 @@
 #! /bin/sh
 mkdir test
 cd test
+rm -rf test
 echo "created directory"
